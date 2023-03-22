@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" status="online",NHK G (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
+#EXTINF:-1 tvg-id="NHKEducationalTV.jp" status="online",NHK E (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" status="online",NHK World Japan (720p)
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
+#EXTINF:-1 tvg-id="NHKBS1.jp" status="online",NHK BS1 (480p)
+http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
+#EXTINF:-1 tvg-id="NHKBSPremium.jp" status="online",NHK BSP (480p)
+http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8
+#EXTINF:-1 tvg-id="NipponTV.jp" status="online",Nippon TV (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
+#EXTINF:-1 tvg-id="TVAsahi.jp" status="online",TV Asahi (480p)
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+#EXTINF:-1 tvg-id="JORXDTV.jp" status="online",TBS (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8
+#EXTINF:-1 tvg-id="JOCXDTV.jp" status="online",Fuji TV (480p)
+http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
+#EXTINF:-1 tvg-id="JOTXDTV.jp" status="online",TV Tokyo (480p)
+http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
+#EXTINF:-1 tvg-id="TokyoMX1.jp" status="online",Tokyo MX1 (360p)
+https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
+#EXTINF:-1 tvg-id="TokyoMX2.jp" status="online",Tokyo MX2 (360p)
+https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
+#EXTINF:-1 tvg-id="JOMXDTV.jp" status="blocked",Tokyo MX1 (480p)
+http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
+#EXTINF:-1 tvg-id="NTVNews24.jp" status="online",NTV News24 (480p)
+https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8
